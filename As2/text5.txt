@@ -1,0 +1,5 @@
+apple: 1
+orange: 0
+watermelon: 1
+banana: 0
+carrot: 1

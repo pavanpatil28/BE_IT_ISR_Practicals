@@ -1,0 +1,1 @@
+Sometimes called Remote Wake-up, Wake on LAN is technology that allows someone to turn on a network computer remotely by spending a special data packet. Even if the computer is turned off, the network adapter is still listening on the network, so when the special packet arrives, the network adapter can turn on the computer progress. 

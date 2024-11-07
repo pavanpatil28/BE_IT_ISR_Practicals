@@ -1,0 +1,20 @@
+pvg : 1 >> count: 1
+sometim : 2 >> count: 1
+call : 3 >> count: 1
+remote : 4, 21 >> count: 2
+wake : 5, 7 >> count: 2
+lan : 9 >> count: 1
+technology : 11 >> count: 1
+allow : 13 >> count: 1
+turn : 16, 34, 55 >> count: 3
+network : 19, 37, 44, 52 >> count: 4
+computer : 20, 32, 58 >> count: 3
+send : 23 >> count: 1
+special : 25, 48 >> count: 2
+data : 26 >> count: 1
+packet : 27, 49 >> count: 2
+pavan : 28 >> count: 1
+adapter : 38, 53 >> count: 2
+listen : 41 >> count: 1
+arriv : 50 >> count: 1
+progress : 59 >> count: 1
